@@ -40,5 +40,5 @@ jobs:
           push: true
           tags: |
             kevinbernat0501/animal-farm-nodejs:latest
-            ghcr.io/jamtur01/animal-farm-nodejs:latest
+           # ghcr.io/jamtur01/animal-farm-nodejs:latest
 
